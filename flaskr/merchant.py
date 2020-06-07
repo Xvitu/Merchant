@@ -11,7 +11,7 @@ def search(search):
     secret_key = os.getenv("GSE_SECRET_KEY")
     gse_id = os.getenv("GSE_ID")
 
-    params = {"key": secret_key, "cx": gse_id, "q": search}
+    params = {"key": secret_key, "cx": gse_id, "q": search, "gl": "br"}
     response = requests.get("https://www.googleapis.com/customsearch/v1", params=params)
 
     return response.json()

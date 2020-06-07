@@ -1,0 +1,2531 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - monitor",
+        "totalResults": "136000000",
+        "searchTerms": "monitor",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "010262900529740159283:lifym9ou0ln",
+        "hl": "pt-BR"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - monitor",
+        "totalResults": "136000000",
+        "searchTerms": "monitor",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "010262900529740159283:lifym9ou0ln",
+        "hl": "pt-BR"
+      }
+    ]
+  },
+  "context": {
+    "title": "merchant-search"
+  },
+  "searchInformation": {
+    "searchTime": 0.372205,
+    "formattedSearchTime": "0.37",
+    "totalResults": "136000000",
+    "formattedTotalResults": "136,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "49\" CHG90 QLED Gaming Monitor Monitors - LC49HG90DMNXZA ...",
+      "htmlTitle": "49&quot; CHG90 QLED Gaming <b>Monitor Monitors</b> - LC49HG90DMNXZA ...",
+      "link": "https://www.samsung.com/us/computing/monitors/gaming/49--chg90-qled-gaming-monitor-lc49hg90dmnxza/",
+      "displayLink": "www.samsung.com",
+      "snippet": "Learn about the Samsung 49\" CHG90 curved Gaming monitor with QLED \nQuanum Dot technology. The ultra-wide 49\" screen with 32:9 aspect ratio \ndelivers ...",
+      "htmlSnippet": "Learn about the Samsung 49&quot; CHG90 curved Gaming <b>monitor</b> with QLED <br>\nQuanum Dot technology. The ultra-wide 49&quot; screen with 32:9 aspect ratio <br>\ndelivers&nbsp;...",
+      "cacheId": "AIBQtGTEdvoJ",
+      "formattedUrl": "https://www.samsung.com/.../monitors/.../49--chg90-qled-gaming-monitor- lc49hg90dmnxza/",
+      "htmlFormattedUrl": "https://www.samsung.com/.../<b>monitors</b>/.../49--chg90-qled-gaming-<b>monitor</b>- lc49hg90dmnxza/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7xQ_Z48m5nh8Z1Ge6r24V9fEakDc7zjr7cnuqQcZFuRinVkyumKFTUkDf",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "product": [
+          {
+            "image": "https://image-us.samsung.com/SamsungUS/home/computing/monitors/gaming-monitors/pdp/lc49hg90dmnxza/features/1_Ultra-large_060617.jpg?$feature-benefit-bottom-mobile-jpg$",
+            "name": "49\" CHG90 QLED Gaming Monitor",
+            "logo": "https://image-us.samsung.com/SamsungUS/home/computing/monitors/gaming-monitors/pdp/lc49hg90dmnxza/gallery/09142017/CHG90-NEW_1.jpg?$product-details-thumbnail-png$",
+            "description": "Groundbreaking 49-inch super ultra-wide 32:9 curved screen fills your field of view",
+            "model": "LC49HG90DMNXZA",
+            "category": "monitors",
+            "url": "https://www.samsung.com/us/computing/monitors/gaming/49--chg90-qled-gaming-monitor-lc49hg90dmnxza/"
+          }
+        ],
+        "propertyvalue": [
+          {
+            "image": "https://www.samsung.com/us/smg/content/dam/IconLibrary/QuantumDotColor.svg",
+            "name": "Quantum Dot Color"
+          },
+          {
+            "image": "https://www.samsung.com/us/smg/content/dam/IconLibrary/FeaturesCurved.svg",
+            "name": "Curved"
+          },
+          {
+            "image": "https://www.samsung.com/us/smg/content/dam/IconLibrary/HDR_monitors.svg",
+            "name": "HDR"
+          },
+          {
+            "image": "https://www.samsung.com/us/smg/content/dam/IconLibrary/AMDFreesync.svg",
+            "name": "AMD’s Radeon FreeSync™ 2"
+          },
+          {
+            "image": "https://www.samsung.com/us/smg/content/dam/IconLibrary/SuperfastResponseTime.svg",
+            "name": "Super-fast Response Time"
+          },
+          {
+            "name": "Aspect Ratio",
+            "value": "32:9"
+          },
+          {
+            "name": "Display"
+          },
+          {
+            "name": "Model Number",
+            "value": "LC49HG90DMNXZA"
+          },
+          {
+            "name": "Screen Size",
+            "description": "The diagonal measurement of a TV screen or monitor, from corner to corner.",
+            "value": "49\""
+          },
+          {
+            "name": "Display Type",
+            "value": "VA"
+          },
+          {
+            "name": "Curvature",
+            "value": "1800R"
+          },
+          {
+            "name": "Resolution",
+            "description": "Fixed number of horizontal scan lines on a monitor. P (Progressive) means scan lines are drawn in sequence.",
+            "value": "3840 X 1080"
+          },
+          {
+            "name": "Aspect Ratio",
+            "description": "Ratio of the width of an display to its height. 16:9 is the universal standard for high-definition display.",
+            "value": "32:9"
+          },
+          {
+            "name": "Brightness",
+            "value": "350cd/m2 (Typ.), 250cd/m2 (Min.)"
+          },
+          {
+            "name": "Static Contrast Ratio",
+            "description": "Difference in light intensity between brightest color (white) & darkest (black). Higher ratio means more contrast.",
+            "value": "3000:1(Typ),2400:1(Min)"
+          },
+          {
+            "name": "Dynamic Contrast Ratio",
+            "description": "Difference in luminosity between brightest color (white) & darkest (black) over time. Higher ratio means more contrast.",
+            "value": "Yes"
+          },
+          {
+            "name": "HDR",
+            "value": "Yes"
+          },
+          {
+            "name": "Viewing Angle (Horizontal/Vertical)",
+            "description": "Degrees from side to side (and above to below) from which a screen can be viewed without loss of quality.",
+            "value": "178°(H)/178°(V)"
+          },
+          {
+            "name": "Response Time",
+            "description": "Typical speed at which pixels can change color. Lower response times mean better motion image reproduction.",
+            "value": "1ms (MPRT) *1ms MPRT spec is based on internal tests. Response time may vary depending on test conditions."
+          },
+          {
+            "name": "sRGB Coverage",
+            "value": "Typ 125%, Min 120% (Adobe RGB: Typ 92%, Min 88%)"
+          },
+          {
+            "name": "Color Support",
+            "description": "Number of colors that an LCD monitor is capable of displaying.",
+            "value": "1.07B"
+          },
+          {
+            "name": "Color Gamut (NTSC 1976)",
+            "value": "Typ 88%, Min 84%"
+          },
+          {
+            "name": "Power"
+          },
+          {
+            "name": "Type",
+            "value": "AC 100~240V"
+          },
+          {
+            "name": "Power Supply Type",
+            "value": "AC 100~240V"
+          },
+          {
+            "name": "Power Consumption (Max)",
+            "value": "113 W"
+          },
+          {
+            "name": "Power Consumption (Stand-by)",
+            "value": "Less than 0.3 W"
+          },
+          {
+            "name": "Max Stand By Power (DPMS)",
+            "description": "Energy consumed by a monitor while off or in sleep mode, as per Display Power Management Signaling.",
+            "value": "Less than 0.5 W"
+          },
+          {
+            "name": "Features"
+          },
+          {
+            "name": "HAS(Height Adjustable Stand)",
+            "value": "Yes (120.0 ± 5.0 mm)"
+          },
+          {
+            "name": "Wall Mountable",
+            "value": "Yes"
+          },
+          {
+            "name": "Wall-Mount (Size mm)",
+            "description": "Attachment for bracket that enables a monitor to hang on the wall and pivot or tilt for optimal positioning.",
+            "value": "100 x 100"
+          },
+          {
+            "name": "Eco Saving Plus",
+            "value": "Yes"
+          },
+          {
+            "name": "Eye Saver Mode",
+            "value": "Yes"
+          },
+          {
+            "name": "Flicker Free",
+            "value": "Yes"
+          },
+          {
+            "name": "Quantum Dot Color",
+            "value": "Yes"
+          },
+          {
+            "name": "Game Mode",
+            "description": "Mode in which a user can play video games on your television.",
+            "value": "Game Color Mode"
+          },
+          {
+            "name": "Screen Size Optimizer",
+            "value": "Yes"
+          },
+          {
+            "name": "Black Equalizer",
+            "value": "Yes"
+          },
+          {
+            "name": "Low Input Lag Mode",
+            "value": "Yes"
+          },
+          {
+            "name": "Custom Key",
+            "value": "Yes"
+          },
+          {
+            "name": "Refresh Rate Optimizor",
+            "value": "Yes"
+          },
+          {
+            "name": "Super Arena Gaming UX",
+            "value": "Yes"
+          },
+          {
+            "name": "Easy Setting Box",
+            "value": "Yes"
+          },
+          {
+            "name": "FreeSync",
+            "value": "Yes"
+          },
+          {
+            "name": "Picture by Picture (PBP)",
+            "value": "Yes"
+          },
+          {
+            "name": "Refresh Rate",
+            "value": "144Hz"
+          },
+          {
+            "name": "Dimensions (W x H x D)"
+          },
+          {
+            "name": "Product Dimensions With Stand",
+            "description": "Width, height and depth of the monitor, including stand, as measured in inches (in.).",
+            "value": "47.36\" x 20.69\" x 15.02\""
+          },
+          {
+            "name": "Product Dimensions Without Stand",
+            "description": "Width, height and depth of the monitor, without stand, as measured in inches (in.).",
+            "value": "47.36\" x 14.54\" x 7.65\""
+          },
+          {
+            "name": "Shipping Dimensions",
+            "value": "51.97\" x 12.44\" x 18.74\""
+          },
+          {
+            "name": "Weight (lb.)"
+          },
+          {
+            "name": "Product Weight With Stand",
+            "description": "Weight of the monitor, as measured in pounds (lb.).",
+            "value": "33.1 lbs."
+          },
+          {
+            "name": "Product Weight Without Stand",
+            "description": "Weight of the television, without stand, as measured in pounds (lb.).",
+            "value": "26.2 lbs."
+          },
+          {
+            "name": "Shipping Weight",
+            "value": "45.6 lbs."
+          },
+          {
+            "name": "Accessories"
+          },
+          {
+            "name": "Included in Box",
+            "value": "Quick setup guide"
+          },
+          {
+            "name": "Installation Software",
+            "value": "Install CD"
+          },
+          {
+            "name": "HDMI Cable",
+            "value": "Yes"
+          },
+          {
+            "name": "Power Cable",
+            "value": "1.5m"
+          },
+          {
+            "name": "Display Port Cable",
+            "value": "Yes"
+          },
+          {
+            "name": "Inputs"
+          },
+          {
+            "name": "HDMI",
+            "description": "High-Definition Multimedia Interface. The industry standard for transmitting HD video for display.",
+            "value": "2 EA"
+          },
+          {
+            "name": "Audio In (3.5mm)",
+            "description": "Terminals on a monitor that accept sound from other components.",
+            "value": "Yes"
+          },
+          {
+            "name": "Display Port",
+            "value": "1 EA"
+          },
+          {
+            "name": "Headphones",
+            "value": "Yes"
+          },
+          {
+            "name": "USB Hub",
+            "value": "Yes (USB Super Charging)"
+          },
+          {
+            "name": "Mini-Display Port",
+            "value": "1 EA"
+          },
+          {
+            "name": "Design"
+          },
+          {
+            "name": "Color",
+            "value": "Charcoal Black(Hair-line)"
+          },
+          {
+            "name": "Tilt",
+            "value": "-2.0° (±2.0°) ~ +15.0° (±2.0°)"
+          },
+          {
+            "name": "Swivel",
+            "value": "-2.0° (±2.0°) ~ +15.0° (±2.0°)"
+          },
+          {
+            "name": "Stand Type",
+            "value": "HAS"
+          },
+          {
+            "name": "Operation Conditions"
+          },
+          {
+            "name": "Temperature",
+            "value": "10~40 ℃"
+          },
+          {
+            "name": "Humidity",
+            "description": "Minimum and maximum air moisture in which a camera will operate, as measured in percentage.",
+            "value": "10~80,non-condensing %"
+          },
+          {
+            "name": "Calibration"
+          },
+          {
+            "name": "Factory Tuning",
+            "value": "Yes"
+          },
+          {
+            "name": "Color Mode",
+            "value": "Custom/High-Brightness/FPS/RTS/RPG/AOS/sRGB/Cinema"
+          },
+          {
+            "name": "Factory Calibration Report",
+            "value": "Yes"
+          }
+        ],
+        "aggregaterating": [
+          {
+            "ratingvalue": "3.6",
+            "reviewcount": "53",
+            "bestrating": "5"
+          }
+        ],
+        "rating": [
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "3",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "3",
+            "bestrating": "5"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://image-us.samsung.com/SamsungUS/home/samsung-logo-191-1.jpg",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "49&quot; CHG90 QLED Gaming Monitor Monitors - LC49HG90DMNXZA | Samsung US",
+            "og:type": "website",
+            "og:site_name": "Samsung Electronics America",
+            "al:ios:app_name": "Shop Samsung",
+            "bvdatemodified": "2020-05-22",
+            "og:title": "49&quot; CHG90 QLED Gaming Monitor Monitors - LC49HG90DMNXZA | Samsung US",
+            "al:android:package": "com.samsung.ecomm",
+            "title": "49&quot; CHG90 QLED Gaming Monitor Monitors - LC49HG90DMNXZA | Samsung US",
+            "twitter:creator": "@SamsungUS",
+            "og:description": "Discover the latest features and innovations available in the 49 inches CHG90 QLED Gaming Monitor. Find the perfect Monitors for you!",
+            "twitter:image": "http://image-us.samsung.com/SamsungUS/home/samsung-logo-1-1.jpg?$seo-twitter-card-jpg$",
+            "al:ios:app_store_id": "1274679179",
+            "al:android:url": "android-app://com.samsung.ecomm/samsungestore/openpdp?product=LC49HG90DMNXZA&utm_source=google&utm_medium=ap_index&utm_campaign=s_com_app_indexing",
+            "twitter:site": "@SamsungUS",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no",
+            "twitter:description": "Discover the latest features and innovations available in the 49 inches CHG90 QLED Gaming Monitor. Find the perfect Monitors for you!",
+            "position": "1",
+            "og:url": "http://www.samsung.com/us/computing/monitors/gaming/49--chg90-qled-gaming-monitor-lc49hg90dmnxza/",
+            "al:android:app_name": "Shop Samsung"
+          }
+        ],
+        "hproduct": [
+          {
+            "fn": "49\" CHG90 QLED Gaming Monitor",
+            "description": "Quantum dot technology and HDR support provide stunningly realistic color and contrast",
+            "photo": "https://image-us.samsung.com/SamsungUS/home/computing/monitors/gaming-monitors/pdp/lc49hg90dmnxza/features/15_Designed+for+gamers_060617.jpg?$feature-benefit-jpg$",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.samsung.com/us/computing/monitors/gaming/49--chg90-qled-gaming-monitor-lc49hg90dmnxza/"
+          }
+        ],
+        "offer": [
+          {
+            "pricecurrency": "USD",
+            "price": "83.33",
+            "availability": "http://schema.org/InStock",
+            "sku": "LC49HG90DMNXZA_installment"
+          },
+          {
+            "pricecurrency": "USD",
+            "price": "999.99",
+            "availability": "http://schema.org/InStock",
+            "sku": "LC49HG90DMNXZA"
+          }
+        ],
+        "BreadcrumbList": [
+          {}
+        ],
+        "imageobject": [
+          {
+            "image": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/42a16df7-a551-5a5c-8ad3-13f1fbb837f8",
+            "thumbnail": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/7cd47e05-40c6-58fa-8968-4d8ada24e9a7",
+            "description": "Review photo 1"
+          },
+          {
+            "image": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/727a1cdf-e369-5b6f-8baa-ea7088340cbb",
+            "thumbnail": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86c2Ftc3VuZw/49eceba3-c202-5a5f-9802-2d28e1d116bd",
+            "description": "49\" vs 65\" Setup"
+          }
+        ],
+        "review": [
+          {
+            "ratingstars": "5.0",
+            "reviewdate": "2018-06-28",
+            "reviewer": "BedBug8"
+          },
+          {
+            "author": "BedBug8",
+            "datecreated": "2018-06-28",
+            "reviewbody": "I have written a review of this monitor before. Now quite a while later I've purchased another one to see if there's been any improvements since last time I owned a HG90.I had issues with the...",
+            "headline": "Update",
+            "datepublished": "2018-06-28"
+          },
+          {
+            "author": "AZAuthor",
+            "datecreated": "2018-12-08",
+            "reviewbody": "I bought this monitor from Samsung.com to work from home without need for buying 3 separate monitors. When it arrived, I was shocked by how huge the box was and concerned it would be too big...",
+            "headline": "Ultra-wide productivity!",
+            "datepublished": "2018-12-09"
+          },
+          {
+            "author": "Avariel",
+            "datecreated": "2018-10-16",
+            "reviewbody": "OK all Bare with me, i am trying the best i can to write in English here. I got a new computer with 2 GeForce 1080 TI last month with this screen. And the screen itself makes me happier than...",
+            "headline": "Great Screen",
+            "datepublished": "2018-10-16"
+          },
+          {
+            "author": "Mike W",
+            "datecreated": "2018-12-20",
+            "reviewbody": "I love this. It is so good for productivity and work driven tasks. Gaming on this is also a dream as it handles everything I throw at it without issue ✔ Yes, I recommend this product.",
+            "headline": "Best Ever",
+            "datepublished": "2020-03-28"
+          },
+          {
+            "author": "firesysenegineer",
+            "datecreated": "2018-12-19",
+            "reviewbody": "Had my CHG90 for two months mostly used for engineering (AutoCAD) and also gaming. Awesome monitor but then it would not wake up from standby. I am very technical and tried everything you can...",
+            "text": "firesysenegineer:Thank you for sharing your user experience with the Samsung C49HG90 Gaming Monitor. I am sorry to hear that you experienced wake issues with your monitor but glad to hear that...",
+            "headline": "Power Issues But Samsung Fixed It Under Warranty",
+            "datepublished": "2018-12-20"
+          },
+          {
+            "author": "Tentmaker",
+            "datecreated": "2019-02-28",
+            "reviewbody": "So, I broke my piggy bank and spent the life savings on this for work productivity (and fun, which makes sense because this product is mainly marketed to gamers). I watched a few videos online...",
+            "headline": "Honest Review with Practical Details",
+            "datepublished": "2019-05-21"
+          },
+          {
+            "author": "BigMarky",
+            "datecreated": "2018-10-08",
+            "reviewbody": "Once you try it out, it's hard to use a regular monitor. It does not replace a true 4k setup on a 65\"+ TV but just as good. So if you use your giant 4k tv for computer and gaming use - this...",
+            "headline": "Pictures will never do it justice",
+            "datepublished": "2019-06-26"
+          },
+          {
+            "author": "BedBug84",
+            "datecreated": "2018-02-04",
+            "reviewbody": "I returned my screen because of dead pixels. The monitor brightness is a bit of a jam here. in HDR it's extremely dark and hard 2 see. And furthermore, the gaming mode/overdrive automatically...",
+            "text": "BedBug84,Thank you for sharing your feedback on the Samsung CHG90 QLED Gaming Monitor. I am sorry to see that this model fell short of your expectations and you have returned your display.Should...",
+            "headline": "Clarification",
+            "datepublished": "2018-02-04"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://image-us.samsung.com/SamsungUS/home/computing/monitors/gaming-monitors/pdp/lc49hg90dmnxza/gallery/09142017/CHG90-NEW_1.jpg?$product-details-jpg$"
+          }
+        ],
+        "brand": [
+          {
+            "name": "Samsung",
+            "logo": "//image-us.samsung.com/SamsungUS/home/samsung-logo-191-1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "LG UltraWide® Monitors: Crystal-Clear 21:9 Monitors | LG USA",
+      "htmlTitle": "LG UltraWide® <b>Monitors</b>: Crystal-Clear 21:9 <b>Monitors</b> | LG USA",
+      "link": "https://www.lg.com/us/ultrawide-monitors",
+      "displayLink": "www.lg.com",
+      "snippet": "21:9 LG UltraWide® computer monitors lets you see the bigger picture in crisp \ncolors. Boasting immersive viewing and crystal-clear HD, browse our collection.",
+      "htmlSnippet": "21:9 LG UltraWide® computer <b>monitors</b> lets you see the bigger picture in crisp <br>\ncolors. Boasting immersive viewing and crystal-clear HD, browse our collection.",
+      "cacheId": "4t4_idlbE3YJ",
+      "formattedUrl": "https://www.lg.com/us/ultrawide-monitors",
+      "htmlFormattedUrl": "https://www.lg.com/us/ultrawide-<b>monitors</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQF1lI1rTNGEhXpM2XK1UpYwaxoEWXRny-tCLI3_nxm-9t5zeJxt6W0evc",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "product": [
+          {
+            "image": "https://www.lg.com/us/images/monitors/md05919457/38WK95C-260.jpg",
+            "name": "38WK95C-W",
+            "url": "Read more about this product"
+          },
+          {
+            "image": "https://www.lg.com/us/images/monitors/md05975996/260.jpg",
+            "name": "29UM50-P",
+            "url": "Read more about this product"
+          },
+          {
+            "image": "https://www.lg.com/us/images/monitors/md05911437/34WK650-260.jpg",
+            "name": "34WK650-W",
+            "url": "Read more about this product"
+          },
+          {
+            "image": "https://www.lg.com/us/images/monitors/md06064396/260.jpg",
+            "name": "49WL95C-W",
+            "url": "Read more about this product"
+          },
+          {
+            "image": "https://www.lg.com/us/images/monitors/md05921216/260.jpg",
+            "name": "29WK500-P",
+            "url": "Read more about this product"
+          },
+          {
+            "image": "https://www.lg.com/us/images/monitors/md05921236/34WK500-260.jpg",
+            "name": "34WK500-P",
+            "url": "Read more about this product"
+          },
+          {
+            "image": "https://www.lg.com/us/images/monitors/md06022438/260.jpg",
+            "name": "34GK950F-B",
+            "url": "Read more about this product"
+          }
+        ],
+        "review": [
+          {
+            "ratingstars": "5.0",
+            "reviewdate": "2018-08-07",
+            "reviewer": "DrD1984"
+          },
+          {
+            "itemreviewed": "38WK95C-W",
+            "author": "DrD1984",
+            "name": "I am impressed",
+            "description": "I was very hesitant about buying this monitor (it is expensive) but now that I have it, i absolutely love it. I use it with a macbook pro 2017 and I only need one cable because the monitor...",
+            "datepublished": "2018-08-07"
+          },
+          {
+            "itemreviewed": "38WK95C-W",
+            "author": "tomtel",
+            "name": "Fantastic Monitor - GREAT!",
+            "description": "Purchased this monitor to run of my Mac Book Pro 2019 to edit photos while traveling in Korea during the next year (purchased from LG in Korea). The monitor is great to say the least, great...",
+            "datepublished": "2019-07-11"
+          },
+          {
+            "itemreviewed": "38WK95C-W",
+            "author": "Aquasman",
+            "name": "Simply the best",
+            "description": "I purchased the LG the day it came out and use daily for both business and for photos/videos watching. I have yet to find any monitor at any price that beats the size and clarity. I hook up...",
+            "datepublished": "2018-06-03"
+          },
+          {
+            "itemreviewed": "29UM50-P",
+            "author": "Hank2720",
+            "name": "Great monitor",
+            "description": "Bought this monitor several weeks ago. Great clarity and I enjoy how I can have split screen. The price was right and would recommend this monitor.",
+            "datepublished": "2019-10-07"
+          },
+          {
+            "itemreviewed": "29UM50-P",
+            "author": "Bogan56",
+            "name": "I like the size and the picture is great",
+            "description": "I like the monitor size and the picture is great..",
+            "datepublished": "2019-09-27"
+          },
+          {
+            "itemreviewed": "29UM50-P",
+            "author": "Chris855",
+            "name": "Pretty good",
+            "description": "I bought this a day ago, very easy set up and really good looking. It basically has no bezels and a nice stand. It adds a modern look to my set up and that what I wanted look wise. As soon...",
+            "datepublished": "2018-11-26"
+          },
+          {
+            "itemreviewed": "34WK650-W",
+            "author": "wader2k",
+            "name": "Widescreen Delite!",
+            "description": "Gaming in all it's widescreen glory. No issues at all. Was even able to adjust the lower freesync range down to 30Hz... no tearing at all! Would definitely recommend to anyone looking to enjoy...",
+            "datepublished": "2019-04-27"
+          },
+          {
+            "itemreviewed": "34WK650-W",
+            "author": "General Walker",
+            "name": "Perfect executive monitor",
+            "description": "I was able to get rid of the two monitors I was using, have the same functionality, and now be able to talk to folks who come to my office without having to roll out from behind my desk. Perhaps...",
+            "datepublished": "2019-07-14"
+          },
+          {
+            "itemreviewed": "34WK650-W",
+            "author": "caveman232",
+            "name": "The Best Ultrawide Experience",
+            "description": "I purchased this monitor after doing extensive research on which ultrawide monitor was the best fit for me. I decided on this one after finding its picture quality to be the most accurate without...",
+            "datepublished": "2019-04-03"
+          },
+          {
+            "itemreviewed": "49WL95C-W",
+            "author": "ShieldSean",
+            "name": "So nice!",
+            "description": "So yeah it's wide, you get that in the specs, it's the same scale as 2 quad HD 27 inch monitors. One small thing though that's just not obvious from the reviews though is that you can actually...",
+            "datepublished": "2020-05-12"
+          },
+          {
+            "itemreviewed": "49WL95C-W",
+            "author": "Star Boy",
+            "name": "Best monitor for non-gamers.",
+            "description": "People buy a lot of dongles and adapters for the mac, but with a single USB C connection allows it to not only charge my mac, but also use the various USB ports built-in on the display. It...",
+            "datepublished": "2020-05-20"
+          },
+          {
+            "itemreviewed": "49WL95C-W",
+            "author": "IngenuityFilms",
+            "name": "Perfect for editing cinema footage but...",
+            "description": "Pre-ordered these a month ago and they showed up yesterday... In our office, we were using dual 34\" curved LG monitors on each workstation, but have been waiting years for a more streamlined...",
+            "datepublished": "2019-03-29"
+          },
+          {
+            "itemreviewed": "29WK500-P",
+            "author": "Spanels",
+            "name": "Perfect choice to have one!",
+            "description": "LG display overwhelming every time i put it on. Wide wide place for gaming and work an so on together. I like its bright, strong picture, quick response.",
+            "datepublished": "2019-12-27"
+          },
+          {
+            "itemreviewed": "29WK500-P",
+            "author": "BigTom1948",
+            "name": "29WK500-P is a step up and almost a home run",
+            "description": "Overall the display is a good value as an entry level 21:9 monitor. I would have preferred the 32\" variant of this monitor but space constraints caused by the stand not allowing monitor to...",
+            "datepublished": "2019-04-14"
+          },
+          {
+            "itemreviewed": "29WK500-P",
+            "author": "Jaimy K",
+            "name": "A great LG fan",
+            "description": "I am a great LG lover. This particular product is awesome. the biggest feature I love is the split screen. I use 2 monitors at work and at home, I only need this one monitor to work with. It...",
+            "datepublished": "2018-07-31"
+          },
+          {
+            "itemreviewed": "34WK500-P",
+            "author": "PrestonW",
+            "name": "Excellent Business Monitor",
+            "description": "I've had the 34WK500-P for a few weeks. It is awesome! Setup was easy. The monitor is relatively light in weight. Great improvement in heat dissipation compared to my previouos monitor. Something...",
+            "datepublished": "2018-12-14"
+          },
+          {
+            "itemreviewed": "34WK500-P",
+            "author": "JefLoc",
+            "name": "34WK500-P - Awesome for Music Production",
+            "description": "My LG 34WK500-P took the place of my Dual 22\" monitor setup with ease. I lost a little horizontal screen real estate, but I also lost the dividing bezzle being deat center of my view. I am...",
+            "datepublished": "2019-06-25"
+          },
+          {
+            "itemreviewed": "34WK500-P",
+            "author": "ahashki",
+            "name": "Excellent ultra wide monitor",
+            "description": "I used to have a dual 24\" monitor setup, but the bezels in the center of the monitors prevented me from looking directly at my content. With the 34\" LG Ultrawide, this is no longer a problem....",
+            "datepublished": "2020-01-13"
+          },
+          {
+            "itemreviewed": "34GK950F-B",
+            "author": "HugeSpoonFeD",
+            "name": "absolutly amazing",
+            "description": "I am normally a man of few words, and this time will be no different. this monitor is a complete game changer for me, before seeing this on my desk I had only done 60Hz monitors over the last...",
+            "datepublished": "2019-03-17"
+          },
+          {
+            "itemreviewed": "34GK950F-B",
+            "author": "PApsDad",
+            "name": "Great Upgrade",
+            "description": "I had a 32\" 1440p 144 monitor and I wanted a better viewing so I was looking for a 49\". I ordered a 49\" and found it to be to wide. So I started to go to reviews and found this monitor. I was...",
+            "datepublished": "2019-08-13"
+          },
+          {
+            "itemreviewed": "34GK950F-B",
+            "author": "jaylowreach",
+            "name": "Nearly perfect",
+            "description": "Gorgeous colors. 144hz + IPS + DCI-P3 + VRR is an amazing feature set and the LG 34GK950F-B delivers all of it! Shipped with zero dead or stuck pixels too! The only missing features I would...",
+            "datepublished": "2019-04-03"
+          }
+        ],
+        "aggregaterating": [
+          {
+            "ratingvalue": "3.7",
+            "reviewcount": "3"
+          },
+          {
+            "ratingvalue": "4.7",
+            "reviewcount": "81"
+          },
+          {
+            "ratingvalue": "2.9",
+            "reviewcount": "52"
+          },
+          {
+            "ratingvalue": "4.4",
+            "reviewcount": "27"
+          },
+          {
+            "ratingvalue": "3.7",
+            "reviewcount": "6"
+          },
+          {
+            "ratingvalue": "4.0",
+            "reviewcount": "35"
+          },
+          {
+            "ratingvalue": "4.4",
+            "reviewcount": "27"
+          },
+          {
+            "ratingvalue": "4.7",
+            "reviewcount": "81"
+          },
+          {
+            "ratingvalue": "4.6",
+            "reviewcount": "39"
+          },
+          {
+            "ratingvalue": "4.5",
+            "reviewcount": "93"
+          },
+          {
+            "ratingvalue": "4.6",
+            "reviewcount": "38"
+          },
+          {
+            "ratingvalue": "4.1",
+            "reviewcount": "79"
+          },
+          {
+            "ratingvalue": "5.0",
+            "reviewcount": "9"
+          },
+          {
+            "ratingvalue": "4.7",
+            "reviewcount": "14",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "4.0",
+            "reviewcount": "9",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "4.3",
+            "reviewcount": "33",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "4.0",
+            "reviewcount": "36",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "4.2",
+            "reviewcount": "17",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "4.5",
+            "reviewcount": "35",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "4.4",
+            "reviewcount": "27",
+            "bestrating": "5"
+          }
+        ],
+        "rating": [
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "4",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "4",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "4",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "4",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.lg.com/lg5-common/images/common/share/share-default.jpg",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "theme-color": "#a50034",
+            "og:site_name": "LG USA",
+            "og:title": "LG UltraWide® Monitors: Crystal-Clear 21:9 Monitors | LG USA",
+            "og:description": "21:9 LG UltraWide® computer monitors lets you see the bigger picture in crisp colors. Boasting immersive viewing and crystal-clear HD, browse our collection.",
+            "fb:app_id": "894867477527199",
+            "twitter:site": "@LGUS",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "og:locale": "en_US",
+            "og:url": "https://www.lg.com/us/ultrawide-monitors",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "webpage": [
+          {
+            "image": "https://www.lg.com/lg5-common/images/common/share/share-default.jpg",
+            "name": "LG UltraWide® Monitors: Crystal-Clear 21:9 Monitors | LG USA",
+            "description": "21:9 LG UltraWide® computer monitors lets you see the bigger picture in crisp colors. Boasting immersive viewing and crystal-clear HD, browse our collection.",
+            "url": "https://www.lg.com/us/ultrawide-monitors"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.lg.com/lg5-common/images/common/share/share-default.jpg"
+          }
+        ],
+        "sitenavigationelement": [
+          {
+            "name": "MOBILE",
+            "url": "MOBILE"
+          }
+        ],
+        "hproduct": [
+          {
+            "fn": "38WK95C-W",
+            "photo": "https://www.lg.com/us/images/monitors/md05919457/38WK95C-260.jpg",
+            "url": "https://www.lg.com/us/monitors/lg-38WK95C-W-ultrawide-monitor?rev=BVSpotlights"
+          },
+          {
+            "fn": "29UM50-P",
+            "photo": "https://www.lg.com/us/images/monitors/md05975996/260.jpg",
+            "url": "https://www.lg.com/us/monitors/lg-29UM50-P-ultrawide-monitor?rev=BVSpotlights"
+          },
+          {
+            "fn": "34WK650-W",
+            "photo": "https://www.lg.com/us/images/monitors/md05911437/34WK650-260.jpg",
+            "url": "https://www.lg.com/us/monitors/lg-34WK650-W-ultrawide-monitor?rev=BVSpotlights"
+          },
+          {
+            "fn": "49WL95C-W",
+            "photo": "https://www.lg.com/us/images/monitors/md06064396/260.jpg",
+            "url": "https://www.lg.com/us/monitors/lg-49WL95C-W-ultrawide-monitor?rev=BVSpotlights"
+          },
+          {
+            "fn": "29WK500-P",
+            "photo": "https://www.lg.com/us/images/monitors/md05921216/260.jpg",
+            "url": "https://www.lg.com/us/monitors/lg-29WK500-P-ultrawide-led-monitor?rev=BVSpotlights"
+          },
+          {
+            "fn": "34WK500-P",
+            "photo": "https://www.lg.com/us/images/monitors/md05921236/34WK500-260.jpg",
+            "url": "https://www.lg.com/us/monitors/lg-34WK500-P-ultrawide-led-monitor?rev=BVSpotlights"
+          },
+          {
+            "fn": "34GK950F-B",
+            "photo": "https://www.lg.com/us/images/monitors/md06022438/260.jpg",
+            "url": "https://www.lg.com/us/monitors/lg-34GK950F-B-gaming-monitor?rev=BVSpotlights"
+          }
+        ],
+        "listitem":    [
+          {
+            "item": "HOME",
+            "name": "HOME",
+            "position": "1"
+          },
+          {
+            "item": "Computers",
+            "name": "Computers",
+            "position": "2"
+          },
+          {
+            "item": "Consumer Monitors",
+            "name": "Consumer Monitors",
+            "position": "3"
+          },
+          {
+            "item": "21:9 UltraWide Monitors",
+            "name": "21:9 UltraWide Monitors",
+            "position": "4"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Space Monitor: 4K Space Saving Computer Monitor | Samsung US",
+      "htmlTitle": "Space <b>Monitor</b>: 4K Space Saving Computer <b>Monitor</b> | Samsung US",
+      "link": "https://www.samsung.com/us/computing/monitors/space-monitor/",
+      "displayLink": "www.samsung.com",
+      "snippet": "Discover the Space Monitor from Samsung – a beautiful 4K monitor that folds flat \nagainst your wall, giving you extra space on your desk when you need it most.",
+      "htmlSnippet": "Discover the Space <b>Monitor</b> from Samsung – a beautiful 4K <b>monitor</b> that folds flat <br>\nagainst your wall, giving you extra space on your desk when you need it most.",
+      "cacheId": "DkU0D1bye7UJ",
+      "formattedUrl": "https://www.samsung.com/us/computing/monitors/space-monitor/",
+      "htmlFormattedUrl": "https://www.samsung.com/us/computing/<b>monitors</b>/space-<b>monitor</b>/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrsO89ovzrYC5ql8voYjlIntDwIliMxl-bTo3q6LHg8n8fu8jNIRR1bTV7",
+            "width": "212",
+            "height": "212"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://image-us.samsung.com/SamsungUS/home/samsung-logo-191-1.jpg",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Space Monitor: 4K Space Saving Computer Monitor | Samsung US",
+            "og:type": "website",
+            "og:site_name": "Samsung Electronics America",
+            "og:title": "Space Monitor: 4K Space Saving Computer Monitor | Samsung US",
+            "title": "Space Monitor: 4K Space Saving Computer Monitor | Samsung US",
+            "twitter:creator": "@SamsungUS",
+            "og:description": "Discover the Space Monitor from Samsung – a beautiful 4K monitor that folds flat against your wall, giving you extra space on your desk when you need it most.",
+            "twitter:image": "http://image-us.samsung.com/SamsungUS/home/samsung-logo-1-1.jpg?$seo-twitter-card-jpg$",
+            "twitter:site": "@SamsungUS",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no",
+            "twitter:description": "Discover the Space Monitor from Samsung – a beautiful 4K monitor that folds flat against your wall, giving you extra space on your desk when you need it most."
+          }
+        ],
+        "videoobject": [
+          {
+            "uploaddate": "2019-10-22T15:49:56-04:00",
+            "thumbnailurl": "https://image-us.samsung.com/SamsungUS/home/computing/monitors/space-monitor/mobile/2019-space-monitor-03-Space-saving-innovation-mo.jpg?$feature-benefit-jpg$"
+          },
+          {
+            "uploaddate": "2019-10-22T15:49:56-04:00",
+            "thumbnailurl": "https://image-us.samsung.com/SamsungUS/home/computing/monitors/space-monitor/mobile/2019-space-monitor-04-Install-in-a-snap-mo.jpg?$feature-benefit-jpg$"
+          },
+          {
+            "uploaddate": "2019-10-22T15:49:56-04:00",
+            "thumbnailurl": "https://image-us.samsung.com/SamsungUS/home/computing/monitors/space-monitor/mobile/2019-space-monitor-05-Quality-design-that-lasts-mo.jpg?$feature-benefit-jpg$"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://image-us.samsung.com/us/gnb/0519/1.jpg?$GNB_CARD_FULL_S_JPG$"
+          }
+        ],
+        "someproducts": [
+          {
+            "image": "https://image-us.samsung.com/SamsungUS/home/computing/monitors/space-monitor/mobile/2019-space-monitor-01-kv-mo.jpg?$cm-g-fb-full-bleed-img-mobile-jpg$"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "LG UltraGear 27\" Class FHD IPS G-Sync Compatible Gaming Monitor",
+      "htmlTitle": "LG UltraGear 27&quot; Class FHD IPS G-Sync Compatible Gaming <b>Monitor</b>",
+      "link": "https://www.costco.com/lg-ultragear-27%22-class-fhd-ips-g-sync-compatible-gaming-monitor.product.100512138.html",
+      "displayLink": "www.costco.com",
+      "snippet": "LG UltraGear 27\" Class FHD IPS G-Sync Compatible Gaming Monitor 1920 x \n1080 Resolution NVIDIA G-Sync Compatible 144Hz Refresh Rate 1ms Motion \nBlur ...",
+      "htmlSnippet": "LG UltraGear 27&quot; Class FHD IPS G-Sync Compatible Gaming <b>Monitor</b> 1920 x <br>\n1080 Resolution NVIDIA G-Sync Compatible 144Hz Refresh Rate 1ms Motion <br>\nBlur&nbsp;...",
+      "cacheId": "BcJvc0ldq80J",
+      "formattedUrl": "https://www.costco.com/lg-ultragear-27%22-class-fhd-ips-g-sync-compatible- gaming-monitor.product.100512138.html",
+      "htmlFormattedUrl": "https://www.costco.com/lg-ultragear-27%22-class-fhd-ips-g-sync-compatible- gaming-<b>monitor</b>.product.100512138.html",
+      "pagemap": {
+        "scraped": [
+          {
+            "image_link": "https://www.costco.com/wcsstore/CostcoGLOBALSAS/images/OOS-overlay-en.png"
+          }
+        ],
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDGVUXC32svKsVl3J9vTtWUrZ37uRb7zNNcfiMDniYYn-8BbXMC_EG8DKF",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "product": [
+          {
+            "image": "https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1367030-847__1&recipeName=350",
+            "name": "LG UltraGear 27\" Class FHD IPS G-Sync Compatible Gaming Monitor",
+            "description": "LG UltraGear 27\" Class FHD IPS G-Sync Compatible Gaming Monitor 1920 x 1080 Resolution NVIDIA G-Sync Compatible 144Hz Refresh Rate 1ms Motion Blur Reduction Height/Pivot/Tilt Adjustable Stand",
+            "sku": "1367030",
+            "brand": "LG"
+          }
+        ],
+        "review": [
+          {
+            "ratingstars": "5.0",
+            "reviewdate": "2020-05-07",
+            "reviewer": "tool1970"
+          },
+          {
+            "author": "tool1970",
+            "datecreated": "2019-10-17",
+            "reviewbody": "This thing is amazing. 144HZ, G-Sync, HDR, it is fully loaded. Makes other monitors run in fear. … Show Full Review This action will open a modal dialog.",
+            "headline": "Review by tool1970. Written 7 months ago. 5 out of 5 stars. The Most Amazing Gaming Monitor I have ever owned!",
+            "datepublished": "2020-05-07"
+          },
+          {
+            "author": "Joseph",
+            "datecreated": "2019-11-26",
+            "reviewbody": "This is a great monitor picture is perfect and all but your not going to believe this... It doesn't … Show Full Review This action will open a modal dialog.",
+            "headline": "Review by Joseph. Written 6 months ago. 3 out of 5 stars. Great monitor but...",
+            "datepublished": "2019-11-29"
+          },
+          {
+            "author": "AvidPCGamer",
+            "datecreated": "2019-11-23",
+            "reviewbody": "For those who think all monitors are the same, this product will forever change your mind. Amazing, increase in fps, no tearing, no jitter, with an older AMD graphics card, I'm not even using...",
+            "headline": "WOW!!!",
+            "datepublished": "2019-11-25"
+          },
+          {
+            "author": "Customer",
+            "datecreated": "2019-12-23",
+            "reviewbody": "For the price, I couldn't find anything else even remotely close to the feature set of this monitor: IPS panel, 144Mhz refresh rate, nice sturdy, adjustable stand, good brand. I think this...",
+            "headline": "Excellent value",
+            "datepublished": "2019-12-27"
+          },
+          {
+            "author": "Bengali",
+            "datecreated": "2019-11-27",
+            "reviewbody": "I was going to purchase a normal IPS monitor for watching movies and tv shows on my PC, but then saw this on sale and thought \"Why not?\" The 1ms response time and 144hz refresh rate is phenomenal....",
+            "headline": "Phenomenal monitor!",
+            "datepublished": "2019-11-29"
+          },
+          {
+            "author": "Phill",
+            "datecreated": "2020-01-15",
+            "reviewbody": "This monitor has a lot going for it. The display color is \"wow\" worthy, the stand is easily adjustable, and the overall design is appealing. However, it has surprisingly bad screen resolution....",
+            "headline": "Comes priced with a tradeoff",
+            "datepublished": "2020-01-16"
+          },
+          {
+            "author": "seymour",
+            "datecreated": "2019-10-18",
+            "reviewbody": "I picked this up yesterday to use as a 2nd display with my 27\" iMac. I have had little time to use it yet but so far, for the money Id have to say it was the right choice. VERY bright and colorful...",
+            "headline": "Great value",
+            "datepublished": "2019-10-19"
+          },
+          {
+            "author": "tool1970",
+            "datecreated": "2019-10-17",
+            "reviewbody": "This thing is amazing. 144HZ, G-Sync, HDR, it is fully loaded. Makes other monitors run in fear. If you are serious about gaming just get this monitor you will not be disappointed. I want to...",
+            "headline": "The Most Amazing Gaming Monitor I have ever owned!",
+            "datepublished": "2020-05-07"
+          },
+          {
+            "author": "PC Technician and Gamer",
+            "datecreated": "2019-11-29",
+            "reviewbody": "I really fell in love, the first time I start using it, once in Windows, when you just move the mouse, the cursor's scrolling is very, very smooth. When opening or accessing windows and websites,...",
+            "headline": "Excellent monitor, a must have",
+            "datepublished": "2019-12-01"
+          },
+          {
+            "author": "Cody",
+            "datecreated": "2019-12-23",
+            "reviewbody": "The monitor is good but default colors are really bad. You'll need to adjust them manually to get a good picture. The base that came with mine did not work. The screw for the base will not...",
+            "headline": "Decent monitor but bad color profiles and stand",
+            "datepublished": "2019-12-26"
+          }
+        ],
+        "aggregaterating": [
+          {
+            "ratingvalue": "4.7",
+            "reviewcount": "262",
+            "bestrating": "5"
+          }
+        ],
+        "rating": [
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "3",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "3",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "2",
+            "bestrating": "5"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1367030-847__1&recipeName=350",
+            "og:type": "product",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "LG UltraGear 27\" Class FHD IPS G-Sync Compatible Gaming Monitor",
+            "localname": "TP24",
+            "og:site_name": "Costco Wholesale",
+            "og:availability": "instock",
+            "bvdatemodified": "2020-05-21",
+            "currentbuildnumber": "3.0.40554.0",
+            "og:title": "LG UltraGear 27\" Class FHD IPS G-Sync Compatible Gaming Monitor",
+            "product:price:amount": "249.99",
+            "og:description": "LG UltraGear 27\" Class FHD IPS G-Sync Compatible Gaming Monitor",
+            "twitter:image": "https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1367030-847__1&recipeName=350",
+            "localaddress": "xxx.xxx.xxx.46",
+            "twitter:site": "@Costco",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Buy now",
+            "product:price:currency": "USD",
+            "servername": "www.costco.com",
+            "currentsolrbuildnumber": "3.0.33624.0",
+            "og:url": "https://www.costco.com/lg-ultragear-27%22-class-fhd-ips-g-sync-compatible-gaming-monitor.product.100512138.html"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1367030-847__1&recipeName=350"
+          }
+        ],
+        "hproduct": [
+          {
+            "fn": "LG UltraGear 27\" Class FHD IPS G-Sync Compatible Gaming Monitor",
+            "description": "LG UltraGear 27\" Class FHD IPS G-Sync Compatible Gaming Monitor 1920 x 1080 Resolution NVIDIA G-Sync Compatible 144Hz Refresh Rate 1ms Motion Blur Reduction Height/Pivot/Tilt Adjustable Stand",
+            "photo": "https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1367030-847__1&recipeName=350",
+            "currency": "USD",
+            "currency_iso4217": "840"
+          }
+        ],
+        "listitem": [
+          {
+            "item": "Home",
+            "name": "Home",
+            "position": "1"
+          },
+          {
+            "item": "Computers",
+            "name": "Computers",
+            "position": "2"
+          },
+          {
+            "item": "Monitors & Computer Screens",
+            "name": "Monitors & Computer Screens",
+            "position": "3"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Monitors & Displays | B&H Photo Video",
+      "htmlTitle": "<b>Monitors</b> &amp; Displays | B&amp;H Photo Video",
+      "link": "https://www.bhphotovideo.com/c/buy/monitors-and-displays/ci/25766/N/3878805756",
+      "displayLink": "www.bhphotovideo.com",
+      "snippet": "Items 1 - 24 of 1051 ... Shop B&H for our huge inventory of Monitors & Displays including Computer \nMonitor & Displays, Smart Display Clients and Medical ...",
+      "htmlSnippet": "Items 1 - 24 of 1051 <b>...</b> Shop B&amp;H for our huge inventory of <b>Monitors</b> &amp; Displays including Computer <br>\n<b>Monitor</b> &amp; Displays, Smart Display Clients and Medical&nbsp;...",
+      "cacheId": "VxiUtdnxBm8J",
+      "formattedUrl": "https://www.bhphotovideo.com/c/buy/monitors-and.../ci/.../3878805756",
+      "htmlFormattedUrl": "https://www.bhphotovideo.com/c/buy/<b>monitors</b>-and.../ci/.../3878805756",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTEKUrZ2U1nFGheA5aMxxJLntqKANRad1r39lgeJJZ0oHSxNbLUQSnUB_U",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "product": [
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1521727746000_1374657.jpg",
+            "name": "32UD89-W 31.5\" 16:9 4K FreeSync IPS Monitor",
+            "brand": "LG",
+            "url": "LG 32UD89-W 31.5\" 16:9 4K FreeSync IPS Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1509636143000_1090259.jpg",
+            "name": "U2415 24\" Widescreen LED Backlit IPS Monitor",
+            "brand": "Dell",
+            "url": "Dell U2415 24\" Widescreen LED Backlit IPS Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "Z27 27\" 16:9 4K UHD IPS Display",
+            "brand": "HP",
+            "url": "HP Z27 27\" 16:9 4K UHD IPS Display"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "HA270 Abi 27\" 16:9 FreeSync IPS Gaming Monitor",
+            "brand": "Acer",
+            "url": "Acer HA270 Abi 27\" 16:9 FreeSync IPS Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "U2412M 24\" UltraSharp LED Monitor",
+            "brand": "Dell",
+            "url": "Dell U2412M 24\" UltraSharp LED Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "V270 27\" 16:9 IPS Monitor (Smart Buy)",
+            "brand": "HP",
+            "url": "HP V270 27\" 16:9 IPS Monitor (Smart Buy)"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "UltraGear 27GL850-B 27\" 16:9 144 Hz HDR FreeSync IPS Gaming Monitor",
+            "brand": "LG",
+            "url": "LG UltraGear 27GL850-B 27\" 16:9 144 Hz HDR FreeSync IPS Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "CB271HU bmidprx 27\" 16:9 IPS Monitor",
+            "brand": "Acer",
+            "url": "Acer CB271HU bmidprx 27\" 16:9 IPS Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "27UD88-W 27\" 16:9 4K IPS Monitor",
+            "brand": "LG",
+            "url": "LG 27UD88-W 27\" 16:9 4K IPS Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "C49RG9 49\" 32:9 120 Hz Curved FreeSync HDR VA Gaming Monitor",
+            "brand": "Samsung",
+            "url": "Samsung C49RG9 49\" 32:9 120 Hz Curved FreeSync HDR VA Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "32GK650F-B 32\" 16:9 QHD LCD Gaming Monitor",
+            "brand": "LG",
+            "url": "LG 32GK650F-B 32\" 16:9 QHD LCD Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "27UL500-W 27\" 16:9 4K HDR FreeSync IPS Gaming Monitor",
+            "brand": "LG",
+            "url": "LG 27UL500-W 27\" 16:9 4K HDR FreeSync IPS Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "KG241 bii 24\" 16:9 FreeSync LCD Monitor",
+            "brand": "Acer",
+            "url": "Acer KG241 bii 24\" 16:9 FreeSync LCD Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "VP228HE 21.5\" 16:9 LCD Monitor",
+            "brand": "ASUS",
+            "url": "ASUS VP228HE 21.5\" 16:9 LCD Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "Optix AG32C 32\" 16:9 Curved LCD Gaming Monitor",
+            "brand": "MSI",
+            "url": "MSI Optix AG32C 32\" 16:9 Curved LCD Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "EB321HQ Awi 31.5\" 16:9 IPS Monitor (White)",
+            "brand": "Acer",
+            "url": "Acer EB321HQ Awi 31.5\" 16:9 IPS Monitor (White)"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "27ML600M-B 27\" 16:9 Radeon FreeSync IPS Monitor",
+            "brand": "LG",
+            "url": "LG 27ML600M-B 27\" 16:9 Radeon FreeSync IPS Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "U2419HX UltraSharp 24\" 16:9 IPS Monitor",
+            "brand": "Dell",
+            "url": "Dell U2419HX UltraSharp 24\" 16:9 IPS Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "VG27AQ 27\" 16:9 WQHD IPS Gaming Monitor",
+            "brand": "ASUS",
+            "url": "ASUS VG27AQ 27\" 16:9 WQHD IPS Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "27UL550-W 27\" 16:9 4K HDR FreeSync IPS Gaming Monitor",
+            "brand": "LG",
+            "url": "LG 27UL550-W 27\" 16:9 4K HDR FreeSync IPS Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "UltraGear 34GN850-B 34\" 21:9 Curved 160 Hz Adaptive-Sync HDR IPS Gaming Monitor",
+            "brand": "LG",
+            "url": "LG UltraGear 34GN850-B 34\" 21:9 Curved 160 Hz Adaptive-Sync HDR IPS Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "ZOWIE XL2411P 24\" 16:9 LCD e-Sports Monitor",
+            "brand": "BenQ ZOWIE",
+            "url": "BenQ ZOWIE ZOWIE XL2411P 24\" 16:9 LCD e-Sports Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "25UM58-P 25\" 21:9 UltraWide IPS Monitor",
+            "brand": "LG",
+            "url": "LG 25UM58-P 25\" 21:9 UltraWide IPS Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "name": "34WL550-B 34\" 21:9 UltraWide FreeSync HDR10 IPS Monitor",
+            "brand": "LG",
+            "url": "LG 34WL550-B 34\" 21:9 UltraWide FreeSync HDR10 IPS Monitor"
+          }
+        ],
+        "BreadcrumbList": [
+          {}
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=390928219",
+            "position": "1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static.bhphoto.com/images/images250x250/1521727746000_1374657.jpg"
+          }
+        ],
+        "hproduct": [
+          {
+            "fn": "32UD89-W 31.5\" 16:9 4K FreeSync IPS Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1521727746000_1374657.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1374657-REG/lg_32ud89_w_32ud89w_31_5_4k_uhd.html"
+          },
+          {
+            "fn": "U2415 24\" Widescreen LED Backlit IPS Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1509636143000_1090259.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1090259-REG/dell_u2415_24_ultrasharp_led_monitor.html"
+          },
+          {
+            "fn": "Z27 27\" 16:9 4K UHD IPS Display",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1410166-REG/hp_2tb68a8_aba_hp_z27_27_4k.html"
+          },
+          {
+            "fn": "HA270 Abi 27\" 16:9 FreeSync IPS Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1444411-REG/acer_um_hw0aa_a01_ha270_abi_gaming_ultra_thin.html"
+          },
+          {
+            "fn": "U2412M 24\" UltraSharp LED Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/829236-REG/Dell_469_1137_U2412M_UltraSharp_24_LED.html"
+          },
+          {
+            "fn": "V270 27\" 16:9 IPS Monitor (Smart Buy)",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1418772-REG/hp_2kz35a6_aba_v270_27_fhd_lcd.html"
+          },
+          {
+            "fn": "UltraGear 27GL850-B 27\" 16:9 144 Hz HDR FreeSync IPS Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1488890-REG/lg_27gl850_b_27_ultragear_nano_ips.html"
+          },
+          {
+            "fn": "CB271HU bmidprx 27\" 16:9 IPS Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1444409-REG/acer_um_hb1aa_003_cb271hu_bmidprx_professional_27.html"
+          },
+          {
+            "fn": "27UD88-W 27\" 16:9 4K IPS Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1224163-REG/lg_27ud88_w.html"
+          },
+          {
+            "fn": "C49RG9 49\" 32:9 120 Hz Curved FreeSync HDR VA Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1449627-REG/samsung_lc49rg90ssnxza_c49rg90s_49_lcd_monitor.html"
+          },
+          {
+            "fn": "32GK650F-B 32\" 16:9 QHD LCD Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1426796-REG/lg_32gk650f_b_32_class_qhd_gaming.html"
+          },
+          {
+            "fn": "27UL500-W 27\" 16:9 4K HDR FreeSync IPS Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1457455-REG/lg_27ul500_w_27_ultra_hd_color.html"
+          },
+          {
+            "fn": "KG241 bii 24\" 16:9 FreeSync LCD Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1444408-REG/acer_um_fx1aa_006_kg241_bii_24_amd.html"
+          },
+          {
+            "fn": "VP228HE 21.5\" 16:9 LCD Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1501079-REG/asus_vp228he_21_5_full_hd.html"
+          },
+          {
+            "fn": "Optix AG32C 32\" 16:9 Curved LCD Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1404180-REG/msi_s15_0003083_hh5_32_gaming_display_black_red.html"
+          },
+          {
+            "fn": "EB321HQ Awi 31.5\" 16:9 IPS Monitor (White)",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1415647-REG/acer_um_je1aa_a06_eb321hq_32_ips_monitor.html"
+          },
+          {
+            "fn": "27ML600M-B 27\" 16:9 Radeon FreeSync IPS Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1539787-REG/lg_27ml600m_b_aus_27_27ml600m_ips_monitor.html"
+          },
+          {
+            "fn": "U2419HX UltraSharp 24\" 16:9 IPS Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1485490-REG/dell_24_u2419hx_ultrasharp_wqhd.html"
+          },
+          {
+            "fn": "VG27AQ 27\" 16:9 WQHD IPS Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1500997-REG/asus_vg27aq_tuf_gaming_27_wqhd.html"
+          },
+          {
+            "fn": "27UL550-W 27\" 16:9 4K HDR FreeSync IPS Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1457456-REG/lg_27ul550_w_27_ultra_hd_color.html"
+          },
+          {
+            "fn": "UltraGear 34GN850-B 34\" 21:9 Curved 160 Hz Adaptive-Sync HDR IPS Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1559233-REG/lg_34gn850_b_34_21_9_ultrawide_qhd.html"
+          },
+          {
+            "fn": "ZOWIE XL2411P 24\" 16:9 LCD e-Sports Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1393334-REG/benq_zowie_xl2411p_24_zowie_144hz.html"
+          },
+          {
+            "fn": "25UM58-P 25\" 21:9 UltraWide IPS Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1224165-REG/lg_25um58_p_25_ultrawide_led.html"
+          },
+          {
+            "fn": "34WL550-B 34\" 21:9 UltraWide FreeSync HDR10 IPS Monitor",
+            "photo": "https://static.bhphoto.com/images/itemImgPlaceholder.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1505809-REG/lg_34wl550_34_ultrawide_slim_hdr10.html"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Smart Baby Monitor | Lumi by Pampers™",
+      "htmlTitle": "Smart Baby <b>Monitor</b> | Lumi by Pampers™",
+      "link": "https://www.pampers.com/en-us/lumi/smart-baby-monitor",
+      "displayLink": "www.pampers.com",
+      "snippet": "Everything you're looking for in a baby monitor. No compromise on clarity even \nwhen you zoom in, amazing night vision, room temperature and humidity tracking\n ...",
+      "htmlSnippet": "Everything you&#39;re looking for in a baby <b>monitor</b>. No compromise on clarity even <br>\nwhen you zoom in, amazing night vision, room temperature and humidity tracking<br>\n&nbsp;...",
+      "cacheId": "9mmLazTmP3QJ",
+      "formattedUrl": "https://www.pampers.com/en-us/lumi/smart-baby-monitor",
+      "htmlFormattedUrl": "https://www.pampers.com/en-us/lumi/smart-baby-<b>monitor</b>",
+      "pagemap": {
+        "offer": [
+          {
+            "availability": "InStock"
+          }
+        ],
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2vaToXhLv7pLGBIl0g81qXIPp8YwDjOxFhTFfs_zHUtvhcaWpSV-uWoI",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "product": [
+          {
+            "pricecurrency": "$",
+            "price": "199",
+            "description": "No compromise on clarity even when you zoom in, amazing night vision, room temperature and humidity tracking, two-way and continuous background audio- all with reliable and secure connection.",
+            "sku": "00037000965190"
+          }
+        ],
+        "aggregaterating": [
+          {
+            "ratingvalue": "4.9",
+            "reviewcount": "17"
+          },
+          {
+            "ratingvalue": "4.9",
+            "reviewcount": "17"
+          }
+        ],
+        "organization": [
+          {
+            "name": "Lumi"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://res.cloudinary.com/pmprs/image/upload/c_scale,dpr_1.0,f_auto,q_auto/v20200519234050/pampersc3/en-us/lumi/-/media/pampers/estore-us/images/fullkit-image/og_images/ogimage_lifestyle1200x630opt.png?v=1-202005130625",
+            "og:type": "Product Detail Page",
+            "twitter:card": "summary",
+            "twitter:title": "Shop the Lumi Smart Baby Monitor",
+            "og:site_name": "Lumi by Pampers",
+            "og:title": "Shop the Lumi Smart Baby Monitor",
+            "msapplication-tileimage": "https://res.cloudinary.com/pmprs/image/upload/c_scale,dpr_1.0,f_auto,q_auto/v20200519234050/pampersc3/en-us/-/media/pampers/system-estore/images/layout/icons/favicon/apple-touch-icon-144x144.png?la=en-us&v=1-201408071311&hash=81FD15E55C257D33B9C865F4E432634DBD0419C3",
+            "current-device": "Smartphone",
+            "og:description": "See and hear your baby anywhere, anytime with the Smart Baby Monitor from Lumi. With an ultra-wide, 1080p camera, parents can check in on baby and even monitor overnight sleeping with high-definition night vision. Listen in on baby 24/7 with continuous background audio, and soothe your little one with clear two-way audio. With end-to-end encryption, the Smart Baby Monitor allows parents to safely share with baby’s caregiving circle, so no one has to miss a moment.",
+            "current-os": "Android",
+            "twitter:image": "https://res.cloudinary.com/pmprs/image/upload/c_scale,dpr_1.0,f_auto,q_auto/v20200519234050/pampersc3/en-us/lumi/-/media/pampers/estore-us/images/fullkit-image/og_images/ogimage_lifestyle1200x630opt.png?v=1-202005130625",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "See and hear your baby anywhere, anytime with the Smart Baby Monitor from Lumi. With an ultra-wide, 1080p camera, parents can check in on baby and even monitor overnight sleeping with high-definition night vision. Listen in on baby 24/7 with continuous background audio, and soothe your little one with clear two-way audio. With end-to-end encryption, the Smart Baby Monitor allows parents to safely share with baby’s caregiving circle, so no one has to miss a moment.",
+            "og:url": "https://www.pampers.com/en-us/lumi/smart-baby-monitor"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://res.cloudinary.com/pmprs/image/upload/c_scale,dpr_1.0,e_sharpen:40,f_auto,q_auto,w_478/v20200519234050/pampersc3/en-us/-/media/pampers/estore-us/images/fullkit-image/pdp/smartbabymonitor_herogallery_11000px.png?w=478&v=1-202004030512&hash=DAD7B79488C0D774CC0C8DB61C1FF058443F1291"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Computer Monitor & Displays | B&H Photo Video",
+      "htmlTitle": "Computer <b>Monitor</b> &amp; Displays | B&amp;H Photo Video",
+      "link": "https://www.bhphotovideo.com/c/buy/Computer-Monitors/ci/6559/N/3878805754",
+      "displayLink": "www.bhphotovideo.com",
+      "snippet": "Items 1 - 24 of 1039 ... Types of Computer Monitors. For basic computing tasks, consider a Full HD \nmonitor with a screen size between 19 and 24 inches. Pair work ...",
+      "htmlSnippet": "Items 1 - 24 of 1039 <b>...</b> Types of Computer <b>Monitors</b>. For basic computing tasks, consider a Full HD <br>\n<b>monitor</b> with a screen size between 19 and 24 inches. Pair work&nbsp;...",
+      "cacheId": "arJ5l_JXbzoJ",
+      "formattedUrl": "https://www.bhphotovideo.com/c/buy/Computer-Monitors/ci/.../3878805754",
+      "htmlFormattedUrl": "https://www.bhphotovideo.com/c/buy/Computer-<b>Monitors</b>/ci/.../3878805754",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTEKUrZ2U1nFGheA5aMxxJLntqKANRad1r39lgeJJZ0oHSxNbLUQSnUB_U",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "product": [
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1521727746000_1374657.jpg",
+            "name": "32UD89-W 31.5\" 16:9 4K FreeSync IPS Monitor",
+            "brand": "LG",
+            "url": "LG 32UD89-W 31.5\" 16:9 4K FreeSync IPS Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1463087324000_1224163.jpg",
+            "name": "27UD88-W 27\" 16:9 4K IPS Monitor",
+            "brand": "LG",
+            "url": "LG 27UD88-W 27\" 16:9 4K IPS Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1509636143000_1090259.jpg",
+            "name": "U2415 24\" Widescreen LED Backlit IPS Monitor",
+            "brand": "Dell",
+            "url": "Dell U2415 24\" Widescreen LED Backlit IPS Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1547154393000_1444411.jpg",
+            "name": "HA270 Abi 27\" 16:9 FreeSync IPS Gaming Monitor",
+            "brand": "Acer",
+            "url": "Acer HA270 Abi 27\" 16:9 FreeSync IPS Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1320870485000_829236.jpg",
+            "name": "U2412M 24\" UltraSharp LED Monitor",
+            "brand": "Dell",
+            "url": "Dell U2412M 24\" UltraSharp LED Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1527112010000_1410166.jpg",
+            "name": "Z27 27\" 16:9 4K UHD IPS Display",
+            "brand": "HP",
+            "url": "HP Z27 27\" 16:9 4K UHD IPS Display"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1530197188000_1418772.jpg",
+            "name": "V270 27\" 16:9 IPS Monitor (Smart Buy)",
+            "brand": "HP",
+            "url": "HP V270 27\" 16:9 IPS Monitor (Smart Buy)"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1563401201000_1488890.jpg",
+            "name": "UltraGear 27GL850-B 27\" 16:9 144 Hz HDR FreeSync IPS Gaming Monitor",
+            "brand": "LG",
+            "url": "LG UltraGear 27GL850-B 27\" 16:9 144 Hz HDR FreeSync IPS Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1542316935000_1444409.jpg",
+            "name": "CB271HU bmidprx 27\" 16:9 IPS Monitor",
+            "brand": "Acer",
+            "url": "Acer CB271HU bmidprx 27\" 16:9 IPS Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1548787523000_1449627.jpg",
+            "name": "C49RG9 49\" 32:9 120 Hz Curved FreeSync HDR VA Gaming Monitor",
+            "brand": "Samsung",
+            "url": "Samsung C49RG9 49\" 32:9 120 Hz Curved FreeSync HDR VA Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1541713577000_1426796.jpg",
+            "name": "32GK650F-B 32\" 16:9 QHD LCD Gaming Monitor",
+            "brand": "LG",
+            "url": "LG 32GK650F-B 32\" 16:9 QHD LCD Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1550690431000_1457455.jpg",
+            "name": "27UL500-W 27\" 16:9 4K HDR FreeSync IPS Gaming Monitor",
+            "brand": "LG",
+            "url": "LG 27UL500-W 27\" 16:9 4K HDR FreeSync IPS Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1526334448000_1404180.jpg",
+            "name": "Optix AG32C 32\" 16:9 Curved LCD Gaming Monitor",
+            "brand": "MSI",
+            "url": "MSI Optix AG32C 32\" 16:9 Curved LCD Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1532626536000_1415647.jpg",
+            "name": "EB321HQ Awi 31.5\" 16:9 IPS Monitor (White)",
+            "brand": "Acer",
+            "url": "Acer EB321HQ Awi 31.5\" 16:9 IPS Monitor (White)"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1547154393000_1444408.jpg",
+            "name": "KG241 bii 24\" 16:9 FreeSync LCD Monitor",
+            "brand": "Acer",
+            "url": "Acer KG241 bii 24\" 16:9 FreeSync LCD Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1566221763000_1501079.jpg",
+            "name": "VP228HE 21.5\" 16:9 LCD Monitor",
+            "brand": "ASUS",
+            "url": "ASUS VP228HE 21.5\" 16:9 LCD Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1579101695000_1539787.jpg",
+            "name": "27ML600M-B 27\" 16:9 Radeon FreeSync IPS Monitor",
+            "brand": "LG",
+            "url": "LG 27ML600M-B 27\" 16:9 Radeon FreeSync IPS Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1560439230000_1485490.jpg",
+            "name": "U2419HX UltraSharp 24\" 16:9 IPS Monitor",
+            "brand": "Dell",
+            "url": "Dell U2419HX UltraSharp 24\" 16:9 IPS Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1574268653000_1500997.jpg",
+            "name": "VG27AQ 27\" 16:9 WQHD IPS Gaming Monitor",
+            "brand": "ASUS",
+            "url": "ASUS VG27AQ 27\" 16:9 WQHD IPS Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1550690431000_1457456.jpg",
+            "name": "27UL550-W 27\" 16:9 4K HDR FreeSync IPS Gaming Monitor",
+            "brand": "LG",
+            "url": "LG 27UL550-W 27\" 16:9 4K HDR FreeSync IPS Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1588612139000_1559233.jpg",
+            "name": "UltraGear 34GN850-B 34\" 21:9 Curved 160 Hz Adaptive-Sync HDR IPS Gaming Monitor",
+            "brand": "LG",
+            "url": "LG UltraGear 34GN850-B 34\" 21:9 Curved 160 Hz Adaptive-Sync HDR IPS Gaming Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1463087324000_1224165.jpg",
+            "name": "25UM58-P 25\" 21:9 UltraWide IPS Monitor",
+            "brand": "LG",
+            "url": "LG 25UM58-P 25\" 21:9 UltraWide IPS Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1519670133000_1393334.jpg",
+            "name": "ZOWIE XL2411P 24\" 16:9 LCD e-Sports Monitor",
+            "brand": "BenQ ZOWIE",
+            "url": "BenQ ZOWIE ZOWIE XL2411P 24\" 16:9 LCD e-Sports Monitor"
+          },
+          {
+            "image": "https://static.bhphoto.com/images/images250x250/1574895074000_1505809.jpg",
+            "name": "34WL550-B 34\" 21:9 UltraWide FreeSync HDR10 IPS Monitor",
+            "brand": "LG",
+            "url": "LG 34WL550-B 34\" 21:9 UltraWide FreeSync HDR10 IPS Monitor"
+          }
+        ],
+        "BreadcrumbList": [
+          {}
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=390928219",
+            "position": "1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static.bhphoto.com/images/images250x250/1521727746000_1374657.jpg"
+          }
+        ],
+        "hproduct": [
+          {
+            "fn": "32UD89-W 31.5\" 16:9 4K FreeSync IPS Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1521727746000_1374657.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1374657-REG/lg_32ud89_w_32ud89w_31_5_4k_uhd.html"
+          },
+          {
+            "fn": "27UD88-W 27\" 16:9 4K IPS Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1463087324000_1224163.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1224163-REG/lg_27ud88_w.html"
+          },
+          {
+            "fn": "U2415 24\" Widescreen LED Backlit IPS Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1509636143000_1090259.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1090259-REG/dell_u2415_24_ultrasharp_led_monitor.html"
+          },
+          {
+            "fn": "HA270 Abi 27\" 16:9 FreeSync IPS Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1547154393000_1444411.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1444411-REG/acer_um_hw0aa_a01_ha270_abi_gaming_ultra_thin.html"
+          },
+          {
+            "fn": "U2412M 24\" UltraSharp LED Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1320870485000_829236.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/829236-REG/Dell_469_1137_U2412M_UltraSharp_24_LED.html"
+          },
+          {
+            "fn": "Z27 27\" 16:9 4K UHD IPS Display",
+            "photo": "https://static.bhphoto.com/images/images250x250/1527112010000_1410166.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1410166-REG/hp_2tb68a8_aba_hp_z27_27_4k.html"
+          },
+          {
+            "fn": "V270 27\" 16:9 IPS Monitor (Smart Buy)",
+            "photo": "https://static.bhphoto.com/images/images250x250/1530197188000_1418772.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1418772-REG/hp_2kz35a6_aba_v270_27_fhd_lcd.html"
+          },
+          {
+            "fn": "UltraGear 27GL850-B 27\" 16:9 144 Hz HDR FreeSync IPS Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1563401201000_1488890.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1488890-REG/lg_27gl850_b_27_ultragear_nano_ips.html"
+          },
+          {
+            "fn": "CB271HU bmidprx 27\" 16:9 IPS Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1542316935000_1444409.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1444409-REG/acer_um_hb1aa_003_cb271hu_bmidprx_professional_27.html"
+          },
+          {
+            "fn": "C49RG9 49\" 32:9 120 Hz Curved FreeSync HDR VA Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1548787523000_1449627.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1449627-REG/samsung_lc49rg90ssnxza_c49rg90s_49_lcd_monitor.html"
+          },
+          {
+            "fn": "32GK650F-B 32\" 16:9 QHD LCD Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1541713577000_1426796.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1426796-REG/lg_32gk650f_b_32_class_qhd_gaming.html"
+          },
+          {
+            "fn": "27UL500-W 27\" 16:9 4K HDR FreeSync IPS Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1550690431000_1457455.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1457455-REG/lg_27ul500_w_27_ultra_hd_color.html"
+          },
+          {
+            "fn": "Optix AG32C 32\" 16:9 Curved LCD Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1526334448000_1404180.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1404180-REG/msi_s15_0003083_hh5_32_gaming_display_black_red.html"
+          },
+          {
+            "fn": "EB321HQ Awi 31.5\" 16:9 IPS Monitor (White)",
+            "photo": "https://static.bhphoto.com/images/images250x250/1532626536000_1415647.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1415647-REG/acer_um_je1aa_a06_eb321hq_32_ips_monitor.html"
+          },
+          {
+            "fn": "KG241 bii 24\" 16:9 FreeSync LCD Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1547154393000_1444408.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1444408-REG/acer_um_fx1aa_006_kg241_bii_24_amd.html"
+          },
+          {
+            "fn": "VP228HE 21.5\" 16:9 LCD Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1566221763000_1501079.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1501079-REG/asus_vp228he_21_5_full_hd.html"
+          },
+          {
+            "fn": "27ML600M-B 27\" 16:9 Radeon FreeSync IPS Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1579101695000_1539787.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1539787-REG/lg_27ml600m_b_aus_27_27ml600m_ips_monitor.html"
+          },
+          {
+            "fn": "U2419HX UltraSharp 24\" 16:9 IPS Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1560439230000_1485490.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1485490-REG/dell_24_u2419hx_ultrasharp_wqhd.html"
+          },
+          {
+            "fn": "VG27AQ 27\" 16:9 WQHD IPS Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1574268653000_1500997.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1500997-REG/asus_vg27aq_tuf_gaming_27_wqhd.html"
+          },
+          {
+            "fn": "27UL550-W 27\" 16:9 4K HDR FreeSync IPS Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1550690431000_1457456.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1457456-REG/lg_27ul550_w_27_ultra_hd_color.html"
+          },
+          {
+            "fn": "UltraGear 34GN850-B 34\" 21:9 Curved 160 Hz Adaptive-Sync HDR IPS Gaming Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1588612139000_1559233.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1559233-REG/lg_34gn850_b_34_21_9_ultrawide_qhd.html"
+          },
+          {
+            "fn": "25UM58-P 25\" 21:9 UltraWide IPS Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1463087324000_1224165.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1224165-REG/lg_25um58_p_25_ultrawide_led.html"
+          },
+          {
+            "fn": "ZOWIE XL2411P 24\" 16:9 LCD e-Sports Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1519670133000_1393334.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1393334-REG/benq_zowie_xl2411p_24_zowie_144hz.html"
+          },
+          {
+            "fn": "34WL550-B 34\" 21:9 UltraWide FreeSync HDR10 IPS Monitor",
+            "photo": "https://static.bhphoto.com/images/images250x250/1574895074000_1505809.jpg",
+            "currency": "USD",
+            "currency_iso4217": "840",
+            "url": "https://www.bhphotovideo.com/c/product/1505809-REG/lg_34wl550_34_ultrawide_slim_hdr10.html"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Vertiv Geist Environmental Monitors | Monitoring",
+      "htmlTitle": "Vertiv Geist Environmental <b>Monitors</b> | Monitoring",
+      "link": "https://www.vertiv.com/en-ca/products-catalog/monitoring-control-and-management/monitoring/vertiv-geist-environmental-monitors/",
+      "displayLink": "www.vertiv.com",
+      "snippet": "Environmental factors like heat, humidity and moisture pose a severe threat to \nmission-critical infrastructure. These dangers can be minimized by incorporating\n ...",
+      "htmlSnippet": "Environmental factors like heat, humidity and moisture pose a severe threat to <br>\nmission-critical infrastructure. These dangers can be minimized by incorporating<br>\n&nbsp;...",
+      "cacheId": "dVRlwRfHK0YJ",
+      "formattedUrl": "https://www.vertiv.com/.../monitoring.../monitoring/vertiv-geist- environmental-monitors/",
+      "htmlFormattedUrl": "https://www.vertiv.com/.../<b>monitor</b>ing.../<b>monitor</b>ing/vertiv-geist- environmental-<b>monitors</b>/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1Zi3zoLNDC5qFcUQfid1w4m2U1pIRoNtAD1bvhqYSO144M4AphVeVe5YW",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "product": [
+          {
+            "name": "Vertiv Geist Environmental Monitors"
+          }
+        ],
+        "metatags": [
+          {
+            "x-maxmind-country": "US",
+            "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+            "x-maxmind-ip": "66.249.72.95",
+            "x-app-version": "0.1.7441.31935"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.vertiv.com/globalassets/products/monitoring-control-and-management/monitoring/vertiv-geist-environmental-monitor_watchdog-15_side-view_800x600/DesktopPdpHero"
+          }
+        ],
+        "brand": [
+          {
+            "logo": "https://www.vertiv.com/Content/images/phase3/logo.svg"
+          }
+        ],
+        "hproduct": [
+          {
+            "fn": "Vertiv Geist Environmental Monitors"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Monitor II A.N.C. - Noise Cancelling Headphones | Marshall",
+      "htmlTitle": "<b>Monitor</b> II A.N.C. - Noise Cancelling Headphones | Marshall",
+      "link": "https://www.marshallheadphones.com/us/en/monitor-ii-anc.html",
+      "displayLink": "www.marshallheadphones.com",
+      "snippet": "Advanced active noise cancelling technology blocks out the noise and the \nmonitor function enhances your surroundings, when you need it.",
+      "htmlSnippet": "Advanced active noise cancelling technology blocks out the noise and the <br>\n<b>monitor</b> function enhances your surroundings, when you need it.",
+      "cacheId": "t4rRsr8vwQIJ",
+      "formattedUrl": "https://www.marshallheadphones.com/us/en/monitor-ii-anc.html",
+      "htmlFormattedUrl": "https://www.marshallheadphones.com/us/en/<b>monitor</b>-ii-anc.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdNQzOam2OqufDcSQ1J-NA8MPNWaCvsGBSINA8Hpj3r5Kbr6elSpeOV94",
+            "width": "222",
+            "height": "227"
+          }
+        ],
+        "product": [
+          {
+            "image": "https://www.marshallheadphones.com/on/demandware.static/-/Sites-zs-master-catalog/default/dwc6fa6a88/images/marshall/headphones/monitor-ii-anc/high-res/mh-monitor-II-ANC-high-res-1.png",
+            "description": "Inspired by Marshall heritage, Monitor II A.N.C. headphones are authentic yet modern, delivering high performance sound like you’ve never heard before. Advanced active noise cancelling technology..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.marshallheadphones.com/dw/image/v2/BCQL_PRD/on/demandware.static/-/Sites-zs-master-catalog/default/dwca8e59a0/images/marshall/headphones/monitor-ii-anc/large/mh-monitor-II-ANC-large-1.png",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:title": "Monitor II A.N.C. - Noise Cancelling Headphones",
+            "og:url": "https://www.marshallheadphones.com/us/en/monitor-ii-anc.html",
+            "og:description": "Advanced active noise cancelling technology blocks out the noise and the monitor function enhances your surroundings, when you need it"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.marshallheadphones.com/dw/image/v2/BCQL_PRD/on/demandware.static/-/Sites-zs-master-catalog/default/dwca8e59a0/images/marshall/headphones/monitor-ii-anc/large/mh-monitor-II-ANC-large-1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "LG 29\" UltraWide Full HD IPS Monitor - Sam's Club",
+      "htmlTitle": "LG 29&quot; UltraWide Full HD IPS <b>Monitor</b> - Sam&#39;s Club",
+      "link": "https://www.samsclub.com/p/29wk50s-p/prod22201466",
+      "displayLink": "www.samsclub.com",
+      "snippet": "Then, one day the monitor displayed most of the stuffs on the screen purple and \ngreen. No matter how I tried to adjust the color, I always ended up having those ...",
+      "htmlSnippet": "Then, one day the <b>monitor</b> displayed most of the stuffs on the screen purple and <br>\ngreen. No matter how I tried to adjust the color, I always ended up having those&nbsp;...",
+      "cacheId": "yil1iTj2h0MJ",
+      "formattedUrl": "https://www.samsclub.com/p/29wk50s-p/prod22201466",
+      "htmlFormattedUrl": "https://www.samsclub.com/p/29wk50s-p/prod22201466",
+      "pagemap": {
+        "offer": [
+          {
+            "pricevaliduntil": "Fri May 22 2020 17:00:00 GMT-0700 (Pacific Daylight Time)",
+            "pricecurrency": "USD",
+            "price": "189.96",
+            "availability": "InStock",
+            "url": "www.samsclub.com/p/29wk50s-p/prod22201466"
+          }
+        ],
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSvEllyupIZtY8-oVCTWWgnFrGURgOam_RgncroQnnmUQwR02rxb8Pet5Z",
+            "width": "224",
+            "height": "224"
+          }
+        ],
+        "product": [
+          {
+            "image": "https://scene7.samsclub.com/is/image/samsclub/0071919262025_A",
+            "name": "LG 29\" UltraWide Full HD IPS Monitor",
+            "description": "<ul> <li>29\" 21:9 WFHD (2560x1080) IPS Display</li> <li>sRGB 99% Color Gamut</li> <li>3 Side Borderless Design</li> <li>AMD FreeSync Technology</li> </ul>",
+            "mpn": "29WK50S-P",
+            "sku": "sku22755956",
+            "brand": "LG"
+          }
+        ],
+        "question": [
+          {
+            "author": "Silveroak",
+            "interactioncount": "UserAnswers:1",
+            "datecreated": "2020-03-12",
+            "text": "Originally posted on LG.com",
+            "headline": "Is there any way to adjust my monitor to not tilt forward",
+            "datepublished": "2020-03-12"
+          },
+          {
+            "author": "toot",
+            "interactioncount": "UserAnswers:1",
+            "datecreated": "2020-02-27",
+            "headline": "Can this monitor be used with security camera",
+            "datepublished": "2020-02-27"
+          },
+          {
+            "author": "CROSSPATCH",
+            "interactioncount": "UserAnswers:1",
+            "datecreated": "2020-02-23",
+            "headline": "Does this monitor have both an HDMI and a Type-C USB port? I need to be able to connect my laptop when at home base. I have XTREME Tech USB-C/ HDMI cables, as well as a Microsoft WIRELESS DISPLAY...",
+            "datepublished": "2020-02-23"
+          },
+          {
+            "author": "Carover",
+            "interactioncount": "UserAnswers:1",
+            "datecreated": "2020-02-19",
+            "headline": "Will this Monitor connect to a MacBook Pro with only USB-C ports? What cables will I need?",
+            "datepublished": "2020-02-19"
+          },
+          {
+            "author": "Roger",
+            "interactioncount": "UserAnswers:1",
+            "datecreated": "2020-01-30",
+            "headline": "it this monitor VGA compatible",
+            "datepublished": "2020-01-30"
+          },
+          {
+            "author": "Bentley",
+            "interactioncount": "UserAnswers:1",
+            "datecreated": "2020-01-14",
+            "headline": "Want to use this as a work monitors to have various screens open and view-able at the same time. Does the split screen setting work well?",
+            "datepublished": "2020-01-14"
+          },
+          {
+            "author": "Grace",
+            "interactioncount": "UserAnswers:2",
+            "datecreated": "2019-12-13",
+            "headline": "does this have a built in speakers?",
+            "datepublished": "2019-12-16"
+          },
+          {
+            "author": "Chuck",
+            "interactioncount": "UserAnswers:1",
+            "datecreated": "2019-11-16",
+            "headline": "Can this monitor be plug in to an older computer with the PIN plug? If so how?",
+            "datepublished": "2019-11-17"
+          },
+          {
+            "author": "Ehrig71",
+            "interactioncount": "UserAnswers:1",
+            "datecreated": "2019-10-20",
+            "headline": "Does it come with an HDMI cable?",
+            "datepublished": "2019-10-20"
+          },
+          {
+            "author": "Psypher",
+            "interactioncount": "UserAnswers:1",
+            "datecreated": "2019-08-29",
+            "text": "Originally posted on LG.com",
+            "headline": "What is the current refresh rate and response time?",
+            "datepublished": "2019-08-30"
+          }
+        ],
+        "answer": [
+          {
+            "author": "ChrisPSM",
+            "datecreated": "2020-03-12",
+            "text": "Information regarding adjusting the angle of the monitor can be found in the Owner's Manual on page 13. https://www.lg.com/us/support/product/lg-29WK50S-P.AUS",
+            "datepublished": "2020-03-12"
+          },
+          {
+            "author": "LGAnswers",
+            "datecreated": "2020-02-27",
+            "text": "We would recommend checking with the manufacturer of the security camera regarding what is necessary to use the cameras with a monitor. ^CP",
+            "datepublished": "2020-02-27"
+          },
+          {
+            "author": "CommunityAnswer",
+            "datecreated": "2020-02-23",
+            "text": "No, this unit doesn't have both an HDMI and Type C USB port.",
+            "datepublished": "2020-02-23"
+          },
+          {
+            "author": "LGAnswers",
+            "datecreated": "2020-02-20",
+            "text": "The LG 29 Inch Class 21:9 UltraWide® Full HD IPS LED Monitor with AMD FreeSync (29'' Diagonal), Model # 29WK50S-P features 2 x HDMI ports on it for connectivity. You can find USB-C to HDMI...",
+            "datepublished": "2020-02-20"
+          },
+          {
+            "author": "CommunityAnswer",
+            "datecreated": "2020-01-30",
+            "text": "Yes, this is VGA compatible.",
+            "datepublished": "2020-01-30"
+          },
+          {
+            "author": "LGAnswers",
+            "datecreated": "2020-01-14",
+            "text": "You can find helpful tips on using Screen Split 2.0 in the following help video: https://www.lg.com/us/support/video-tutorials/ultrawide-monitor:-4-screen-split-monitor-CT10000018-1441921251016...",
+            "datepublished": "2020-01-14"
+          },
+          {
+            "author": "LGAnswers",
+            "datecreated": "2019-12-17",
+            "text": "No, the 29WK50S-P does not have built-in speakers. ^CP",
+            "datepublished": "2019-12-17"
+          },
+          {
+            "author": "CommunityAnswer",
+            "datecreated": "2019-12-16",
+            "text": "No, it doesn't have a built-in speaker.",
+            "datepublished": "2019-12-17"
+          },
+          {
+            "author": "LGAnswers",
+            "datecreated": "2019-11-19",
+            "text": "The 29WK50S-P can connect to a computer using a HDMI cable. We do not have information regarding adapters that could be used to enable connectivity. ^CP",
+            "datepublished": "2019-11-19"
+          },
+          {
+            "author": "LGAnswers",
+            "datecreated": "2019-10-21",
+            "text": "Yes, a HDMI cable is listed as an included accessory. ^CP",
+            "datepublished": "2020-02-29"
+          },
+          {
+            "author": "LCopJunior73",
+            "datecreated": "2019-09-05",
+            "text": "Not sure about the response time but when gaming, I get max 75Hz. Not too shabby considering my GPU is a few years old and this monitor is taking good care of it. Looks amazing. Good luck.",
+            "datepublished": "2019-09-06"
+          }
+        ],
+        "BreadcrumbList": [
+          {}
+        ],
+        "review": [
+          {
+            "author": "GiikDigit",
+            "datecreated": "2019-06-13",
+            "reviewbody": "I bought this monitor because of the width and the split screen software. After installing the split screen software, I found it not helping so I uninstalled it and plus windows 10 split screen...",
+            "text": "We hate to hear that, but would love to be able to help. We would be happy to see what's going on. Drop us a line on Twitter at @LGUSSupport or on Facebook https://www.facebook.com/LGUSA/ so...",
+            "headline": "After 5 - 6 months, the monitor had problems",
+            "datepublished": "2019-06-13"
+          },
+          {
+            "author": "RTDitt",
+            "datecreated": "2018-06-18",
+            "reviewbody": "After looking for a newer monitor to replace a 10 plus year old monitor I never knew that there was technology like Split Screen (IPS). It definitely comes in handy when you need to balance...",
+            "headline": "Split Screen is Worth the Money",
+            "datepublished": "2018-06-18"
+          },
+          {
+            "author": "Lu",
+            "datecreated": "2019-03-13",
+            "reviewbody": "Really good product! Worth the price.. ✔ Yes, I recommend this product.",
+            "headline": "Nice",
+            "datepublished": "2019-03-13"
+          },
+          {
+            "author": "jfazny",
+            "datecreated": "2019-03-12",
+            "reviewbody": "Monitor w/ on-screen control works very nicely. I did connect it using Dell dock-station DVI output thru DVI-HDMI adapter. Once in a while screen goes black for a second. Only other issue is...",
+            "headline": "Overall very good",
+            "datepublished": "2019-03-12"
+          },
+          {
+            "author": "Absolutely_Phabulous",
+            "datecreated": "2019-11-02",
+            "reviewbody": "... it's not good for a multi-monitor display unless you purchase additional cables/adapters.Why? This monitor has two HDMI inputs on the back, but most modern video cards only have one HDMI...",
+            "headline": "It's a beautiful display, but...",
+            "datepublished": "2019-11-03"
+          },
+          {
+            "author": "Mike",
+            "datecreated": "2019-12-02",
+            "reviewbody": "Definitely Wide screen. Wish it could have been set up for more apps. Work’s okay with windows 10 ✔ Yes, I recommend this product.",
+            "headline": "Good for the price I paid.",
+            "datepublished": "2019-12-02"
+          },
+          {
+            "author": "Pey",
+            "datecreated": "2019-09-21",
+            "reviewbody": "Honestly, the monitor is great. No problems or issues with the color. I’m not using it for gaming, just for work and the ultrawide is much more preferable than a dual monitor with extra cables....",
+            "text": "We are sorry to see you are unhappy with your new monitor. You are able to adjust the angle of the screen. The angle of the screen can be adjusted forwards or backwards for a comfortable viewing...",
+            "headline": "returning",
+            "datepublished": "2019-09-21"
+          },
+          {
+            "author": "Anil",
+            "datecreated": "2020-04-26",
+            "reviewbody": "I bought this and am returning it after a few hours. It is wide but narrow. Pity there were none on display in the club so I couldn't see what it actually looked like before buying. ✘ No,...",
+            "headline": "too narrow",
+            "datepublished": "2020-04-26"
+          }
+        ],
+        "aggregaterating": [
+          {
+            "ratingvalue": "4.3",
+            "reviewcount": "93",
+            "bestrating": "5"
+          }
+        ],
+        "rating": [
+          {
+            "ratingvalue": "2",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "5",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "4",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "4",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "3",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "2",
+            "bestrating": "5"
+          },
+          {
+            "ratingvalue": "1",
+            "bestrating": "5"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#0067a0",
+            "msapplication-config": "/api/node/static/browserconfig.xml",
+            "og:image": "https://scene7.samsclub.com/is/image/samsclub/0071919262025_A?wid=280&hei=280",
+            "theme-color": "#ffffff",
+            "og:type": "Website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "LG 29\" UltraWide Full HD IPS Monitor - Sam's Club",
+            "og:site_name": "Sam's Club",
+            "bvdatemodified": "2020-05-22",
+            "twitter:url": "https://www.samsclub.com/p/29wk50s-p/prod22201466",
+            "og:title": "LG 29\" UltraWide Full HD IPS Monitor - Sam's Club",
+            "twitter:image": "https://scene7.samsclub.com/is/image/samsclub/0071919262025_A?wid=280&hei=280",
+            "apple-mobile-web-app-status-bar-style": "default",
+            "twitter:site": "@samsclub",
+            "viewport": "width=device-width, initial-scale=1",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Buy LG 29\" UltraWide Full HD IPS Monitor : Monitors at SamsClub.com",
+            "position": "1",
+            "og:url": "https://www.samsclub.com/p/29wk50s-p/prod22201466",
+            "google-play-app": "app-id=com.rfi.sams.android"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://scene7.samsclub.com/is/image/samsclub/0071919262025_A?wid=280&hei=280"
+          }
+        ]
+      }
+    }
+  ]
+}
