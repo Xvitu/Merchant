@@ -1,15 +1,11 @@
-import os
-import tempfile
-
 import pytest
-from flaskr import create_app
+from merchant import create_app
 
 
 @pytest.fixture
 def app():
-    # db_fd, db_path = tempfile.mkstemp()
-
     app = create_app({
+        'ENV': 'testing',
         'TESTING': True
     })
 
@@ -18,9 +14,6 @@ def app():
 
 @pytest.fixture
 def client(app):
-
-    print(app)
-
     return app.test_client()
 
 
